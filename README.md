@@ -1,0 +1,2 @@
+InputBox With Value Validation [C#]
+This example extends previous article how to show an InputBox in C# using simple static method. In this example I use simple class named InputBox with static method Show (to be similar to MessageBox.Show). This implementations brings also value validation.
